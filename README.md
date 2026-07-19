@@ -6,7 +6,7 @@ This repository contains my Java solutions for LeetCode problems.
 - Java
 
 ## Problems Solved
-- 40+ LeetCode Problems
+- 50+ LeetCode Problems
 
 ## Topics
 - Arrays
